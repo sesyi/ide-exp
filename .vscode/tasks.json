@@ -1,0 +1,32 @@
+// {
+//     "version": "2.0.0",
+//     "command": "echo",
+//     "args": [
+//         "Tuya nb"
+//     ],
+//     "group": {
+//         "kind": "build",
+//         "isDefault": true
+//     },
+// }
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "My Task",
+            "command": "open -a Calculator.app",
+            "type": "shell",
+            "args": [],
+            "problemMatcher": [
+                "$tsc"
+            ],
+            "presentation": {
+                "reveal": "always"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+        }
+    ]
+}
