@@ -3,9 +3,10 @@
 ### 介绍
 ide后门测试
 
-### 演示
+### Visual Studio Code.app 演示
 
 ##### 点击克隆按钮
+
 ![clone](./images/clone.png)
 
 ##### 填写git地址
@@ -15,4 +16,11 @@ ide后门测试
 ![trust](./images/trust.png)
 
 ##### 运行
+
 ![run](./images/run-commond.gif)
+
+
+
+### Visual Studio 演示
+
+![run](./images/vs-commond.gif)
